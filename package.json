@@ -10,6 +10,9 @@
         "url": "https://github.com/axyjs/axy-define-asm"
     },
     "main": "index.js",
+    "bin": {
+        "axy-define-asm" : "./bin/axy-define-asm.js"
+    },
     "dependencies": {},
     "keywords": [
         "CommonJS"
